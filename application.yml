@@ -5,5 +5,5 @@ gb.api:
     period: 3000 #Mills
     max-period: 5000 #Mills
     max-attempts: 3
-    connect-timeout-mills: 10000
-    read-timeout-mills: 30000
+    connect-timeout-millis: 10000
+    read-timeout-millis: 30000
