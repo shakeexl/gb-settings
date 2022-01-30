@@ -7,3 +7,4 @@ gb.api:
     max-attempts: 3
     connect-timeout-millis: 10000
     read-timeout-millis: 30000
+    max-connections: 100
